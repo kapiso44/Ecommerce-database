@@ -1,7 +1,7 @@
-# DomSprzedazyWysylkowej — SQL Server E-commerce Database
+# SQL Server E-commerce Database — DomSprzedazyWysylkowej  
 
-Relational SQL Server project for a mail-order/e-commerce domain (`DomSprzedazyWysylkowej`).
-The repository contains complete database setup scripts, demo scripts for cascade behavior, and example operationalqueries.
+Relational SQL Server project for a e-commerce domain (`DomSprzedazyWysylkowej`).
+The repository contains complete database setup scripts, demo scripts for cascade behavior, and example operational queries.
 
 ## Repository structure
 
